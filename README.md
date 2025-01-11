@@ -40,6 +40,9 @@ $ curl -sSL https://get.docker.com | sh
 $ sudo usermod -aG docker $(whoami)
 $ exit
 ```
+```bash
+$ exit
+```
 
 And log in again.
 
