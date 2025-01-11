@@ -41,7 +41,7 @@ $ sudo usermod -aG docker $(whoami)
 $ exit
 ```
 ```bash
-$ exit
+exit
 ```
 
 And log in again.
